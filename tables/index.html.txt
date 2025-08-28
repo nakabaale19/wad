@@ -1,0 +1,18 @@
+</doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"content="width=device-width,initial-scale=1.0">
+<title>Web Application Development Course Outline</title>
+</head>
+<body>
+<h1>Web Application Development</h1>
+<h2>Course Code:ITM 1131<br>Course Level:Year One,Semester One<br>Credit Unit:4</h2>
+<h3>Course Description</h3>
+<p>This course introduces students to web Technologies=HTML CSS,JavaScript;CSS frameworks; frameworks.Students will learn to implement modern web pages using HTML and CSS framework.The course also introduces students to full stack web application programming using JavaScript.</p>
+<h4>Course Objectives</h4>
+<ol>
+<li>Describe web technologies(HTML,CSS&JavaScript),CSS frameworks,and JavaScript frameworks.</li>
+<li>Implement a simple but modern web page with HTML and CSS.</li>
+<li>Build a simple but functional web application using JavaScript.</li>
+</ol>
